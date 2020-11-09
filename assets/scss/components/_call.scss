@@ -52,4 +52,19 @@
       height: 120px;
     }
   }
+
+  
+.email-input {
+  white-space: nowrap;
+  display: inline-block;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 14px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: normal;
+  letter-spacing: 0.025em;
+  text-decoration: none;
+  width: 350px;
+}
 }

@@ -35,6 +35,6 @@ meta_twitter_site = "@oxxodata"
 alt = "OXXODATA"
 desktop = "images/logo/logo.png"
 desktop_height = "16px"
-mobile = "images/logo/logo-mobile.svg"
+mobile = "images/logo/logo-mobile.png"
 [params.team]
 summary_large_truncate = 120

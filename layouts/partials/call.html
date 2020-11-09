@@ -1,6 +1,6 @@
 <div class="call">
   <div class="call-box-top">
-    {{ if .site.Data.contact.phone }}
+    <!--{{ if .site.Data.contact.phone }}
         <div class="call-phone"><strong>Phone: </strong> {{ .site.Data.contact.phone }} </div>
     {{ end }}
     {{ if .site.Data.contact.email }}
@@ -9,11 +9,12 @@
         {{ .site.Data.contact.email }}
       </a>
     </div>
-    {{ end }}
+    {{ end }}-->
+    <input class="email-input" placeholder="Email"></input>
   </div>
     {{ if eq .show_button "true" }}
       <div class="call-box-bottom">
-        <a href="{{ .site.Data.contact.contact_button_link | relURL }}" class="button">Contact</a>
+        <a href="{{ .site.Data.contact.contact_button_link | relURL }}" class="button">S'inscrire</a>
       </div>
     {{ end }}
 </div>
