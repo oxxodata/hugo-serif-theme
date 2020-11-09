@@ -10,6 +10,10 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
+name = "+33 481-133-327"
+url = "tel:+33481133327"
+weight = 4
+[[menu.main]]
 name = "Services"
 url = "/services/"
 weight = 3
