@@ -1,12 +1,17 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/JugglerX/hugo-serif-theme",
-        "image": "images/social/github.svg"
+        "name": "Twitter",
+        "link": "https://twitter.com/oxxodata",
+        "image": "images/social/twitter.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://twitter.com/oxxodata",
+        "image": "images/social/twitter.svg"
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
+        "link": "https://twitter.com/oxxodata",
         "image": "images/social/twitter.svg"
     }
 ]
