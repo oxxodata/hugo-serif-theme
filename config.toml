@@ -14,7 +14,7 @@ title = "OXXODATA"
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
     desktop = "images/logo/logo.png"
-    desktop_height = "36px"
+    desktop_height = "16px"
     alt = "OXXODATA"
 
   [params.homepage_meta_tags]
