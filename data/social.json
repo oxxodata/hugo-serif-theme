@@ -6,12 +6,12 @@
     },
     {
         "name": "Facebook",
-        "link": "https://twitter.com/oxxodata",
-        "image": "images/social/twitter.svg"
+        "link": "https://www.facebook.com/Oxxodata-111178560575340",
+        "image": "images/social/facebook.svg"
     },
     {
-        "name": "Twitter",
-        "link": "https://twitter.com/oxxodata",
-        "image": "images/social/twitter.svg"
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/company/oxxodata/",
+        "image": "images/social/linkedin.svg"
     }
 ]
