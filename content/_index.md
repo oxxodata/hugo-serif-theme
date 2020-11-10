@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
 ---
-# Solution de télétravail sécurisée
+# Solutions de télétravail sécurisée
 
-Accéder au réseau de votre entreprise depuis chez vous grace à notre solution de communication et de partage de fichiers.
+Accédez à distance à vos données et applications, chez vous ou lors de vos déplacements, grâce à la solution de bureau à distance Oxxodata.Retrouvez votre environnement de travail en un clique .
