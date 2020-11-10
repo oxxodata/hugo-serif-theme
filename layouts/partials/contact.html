@@ -11,5 +11,10 @@
       </div>
       {{ end }}
     </div>
+    {{ if eq .show_button "true" }}
+      <div class="call-box-bottom">
+        <a href="{{ .site.Data.contact.contact_button_link | relURL }}" class="button">S'inscrire</a>
+      </div>
+    {{ end }}
   </div>
   
