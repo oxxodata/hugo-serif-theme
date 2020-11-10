@@ -2,10 +2,6 @@ baseURL = "www.oxxodata.com"
 languageCode = "fr-fr"
 title = "OXXODATA"
 [[menu.footer]]
-name = "Contact"
-url = "/contact/"
-weight = 2
-[[menu.footer]]
 name = "Home"
 url = "/"
 weight = 1
