@@ -9,7 +9,7 @@ weight = "1"
 
 ![](/uploads/re4vqfg.webp)
 
-## **Travaillez où vous voulez**
+## **Collaborez sur des projets communs**
 
 Communiquez avec les membres de votre équipe là où vous vous trouvez, même à l’autre bout du monde.
 
