@@ -15,4 +15,5 @@ fields:
   name: weight
   label: weight
 pages:
+- content/services/confidentialite-et-securite.md
 - content/services/partage-de-fichiers.md
