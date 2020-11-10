@@ -1,10 +1,10 @@
 ---
-title: 'Services'
-intro_image: "images/illustrations/reading.svg"
+title: Services
+intro_image: images/illustrations/reading.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
+
 ---
+# Nous proposons des services sur-mesure
 
-# Services that grow with your business
-
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+OXXODATA s'engage à vous garantir la meilleure qualité de service pour un télétravail efficace et totalement sécurisé.

@@ -1,0 +1,19 @@
+---
+label: service
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: date
+  label: date
+- type: boolean
+  name: featured
+  label: featured
+- type: text
+  name: weight
+  label: weight
+pages:
+- content/services/confidentialite-et-securite.md
+- content/services/partage-de-fichiers.md
