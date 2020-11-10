@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 featured = true
 title = "Confidentialité et sécurité"
 weight = "1"
