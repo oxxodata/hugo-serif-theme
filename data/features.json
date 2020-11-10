@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Conversations",
+    "description": "Partagez votre opinion et libérez vote personnalité. Insérez des GIF, des autocollants et des emojis dans vos conversations de groupe et vos messages privés.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Réunions",
+    "description": "Transformez vos conversations de groupe en visioconférences d’un simple clic. Peu importe le nombre de participants : qu’ils soient 2 ou 10 000, tous peuvent assister à la réunion.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Collaboration",
+    "description": "Recherchez, partagez et modifiez des fichiers en temps réel à l’aide d’applications familières telles que Word, PowerPoint et Excel.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
