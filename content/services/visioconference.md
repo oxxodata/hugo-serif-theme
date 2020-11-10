@@ -2,10 +2,10 @@
 date = ""
 featured = true
 title = "Visioconférence"
-weight = 1
+weight = "1"
 
 +++
-# Participez à des réunions, **collaborez** et travaillez en toute **sécurité** où que vous soyez
+# Participez à des réunions, **collaborez** et travaillez en toute **sécurité** où que vous soyez.
 
 ![](/uploads/re4vqfg.webp)
 
