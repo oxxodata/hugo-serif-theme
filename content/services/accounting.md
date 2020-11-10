@@ -7,6 +7,8 @@ weight: "1"
 ---
 # Participez à des réunions, **collaborez** et travaillez en toute **sécurité** où que vous soyez
 
+![](/uploads/re4vqfg.webp)
+
 ## **Travaillez où vous voulez**
 
 Communiquez avec les membres de votre équipe là où vous vous trouvez, même à l’autre bout du monde.
