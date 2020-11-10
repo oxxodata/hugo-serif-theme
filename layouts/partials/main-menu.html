@@ -1,6 +1,6 @@
 <div id="main-menu" class="main-menu">
   <ul>
-    {{ $currentPage := . }}
+    <!--{{ $currentPage := . }}
     {{ range .Site.Menus.main }}
     <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
       <a href="{{.URL}}">
@@ -8,12 +8,19 @@
         <span>{{ .Name }}</span>
       </a>
     </li>
-    {{end}}
+    {{end}}-->
+
     <li>
-      <a href="tel:+33481133327" style="border: 2px solid #F07D42; box-sizing: border-box; border-radius: 20px">
-        <i class="fa fa-phone phonebar fa-lg" aria-hidden="true"></i>
-        <span style="font-weight:600">+33 481-133-327</span>
-      </a>
+      <a href="https://www.oxxodata.com/solution-de-telephonie/">Téléphonie d'Entreprise</a>
+    </li>
+    <li>
+      <a href="https://www.oxxodata.com/securite/protection-des-equipements-informatiques/">Sécurité Informatique</a>
+    </li>
+    <li>
+      <a href="https://www.oxxodata.com/services/cloud-computing/datacenter-lyon-serveur-dedie-cloud/">Sérveurs Cloud</a>
+    </li>
+    <li>
+      <a href="https://www.oxxodata.com/services/infogerance/">Infogérance</a>
     </li>
   </ul>
 </div>

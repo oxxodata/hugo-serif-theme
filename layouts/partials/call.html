@@ -10,11 +10,9 @@
       </a>
     </div>
     {{ end }}-->
-    <input class="email-input" placeholder="Email"></input>
+    <a href="tel:+33481133327" class="button"><i class="fa fa-phone fa-lg" aria-hidden="true"></i> +33 481-133-327</a>
+    <a href="https://www.oxxodata.com/contact/" class="button"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> Contactez-nous</a>
   </div>
-    {{ if eq .show_button "true" }}
       <div class="call-box-bottom">
-        <a href="{{ .site.Data.contact.contact_button_link | relURL }}" class="button">S'inscrire</a>
       </div>
-    {{ end }}
 </div>

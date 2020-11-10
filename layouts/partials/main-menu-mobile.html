@@ -1,12 +1,24 @@
 <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
-    {{ $currentPage := . }}
+    <!--{{ $currentPage := . }}
     {{ range .Site.Menus.main }}
     <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
       <a href="{{ .URL }}">
         <span>{{ .Name }}</span>
       </a>
     </li>
-    {{end}}
+    {{end}}-->
+    <li>
+      <a href="https://www.oxxodata.com/solution-de-telephonie/">Téléphonie d'Entreprise</a>
+    </li>
+    <li>
+      <a href="https://www.oxxodata.com/securite/protection-des-equipements-informatiques/">Sécurité Informatique</a>
+    </li>
+    <li>
+      <a href="https://www.oxxodata.com/services/cloud-computing/datacenter-lyon-serveur-dedie-cloud/">Sérveurs Cloud</a>
+    </li>
+    <li>
+      <a href="https://www.oxxodata.com/services/infogerance/">Infogérance</a>
+    </li>
   </ul>
 </div>
