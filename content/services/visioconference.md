@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 featured = true
 title = "Visioconférence"
 weight = nil
